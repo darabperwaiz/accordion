@@ -1,0 +1,17 @@
+.accordians {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 10px;
+    gap: 15px;
+    margin: 100px auto;
+    background-color: rgb(32, 24, 255);
+    /*  */
+}
+
+.accordians h1 {
+    text-align: center;
+    font-size: clamp(20px, 2.21vw, 40px);
+    color: #fff;
+}
