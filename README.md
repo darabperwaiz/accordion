@@ -1,3 +1,6 @@
+
+![Screenshot 2024-03-18 023337](https://github.com/darabperwaiz/accordion/assets/96805782/2a6c852e-a7b8-407e-b90c-09a35093d58d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
